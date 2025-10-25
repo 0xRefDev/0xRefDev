@@ -34,47 +34,5 @@
 <a href="https://github.com/0xRefDev/pixels_missions" style="text-decoration: none;">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=pixels_missions&theme=dark" alt="pixels_missions"/>
 </a>
-
-<br/>
-
-<div style="width: 100%; display: flex; justify-content: center;">
-<img src="https://github.com/0xRefDev/portfolio_refh4ck/blob/main/src/assets/images/pc.gif?raw=true" alt="Coder" width="300px" style="height: 200px; object-fit: cover;"/>
-</div>
-
-# 🛠️ Tech Stack
-
-<table style="width:100%;">
-  <tr>
-    <th>Tech</th>
-    <th>Logo</th>
-  </tr>
-  <tr>
-    <td align="center">JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="30" height="30" /></td>
-  </tr>
-  <tr>
-    <td align="center">React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="30" height="30" /></td>
-  </tr>
-  <tr>
-    <td align="center">Node.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="30" height="30" /></td>
-  </tr>
-  <tr>
-    <td align="center">TailwindCSS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="30" height="30" /></td>
-  </tr>
-  <tr>
-    <td align="center">MySQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="30" height="30" /></td>
-  </tr>
-  <tr>
-    <td align="center">Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="30" height="30" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://tu-portfolio.com">Visit my portfolio</a>
-    </td>
-  </tr>
-</table>
+<br/> <br/>
+<a href="https://tu-portfolio.com" style="text-align: center; width: 100%;">Want to see more? Visit my portfolio and check out my projects!</a>
