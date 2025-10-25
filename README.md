@@ -22,21 +22,21 @@
 
 # 🔎 Top Repositories
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; background-color: #FFFFFF08; padding: 10px; border-radius: 10px;">
-  <a href="https://github.com/0xRefDev/sfl_digger_master" style="flex: 1 1 48%;">
-    <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(255, 255, 255, 0.02);" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=sfl_digger_master&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=374151&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/0xRefDev/binance_p2p_profit_calculator" style="flex: 1 1 48%;">
-    <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(255, 255, 255, 0.02);" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=binance_p2p_profit_calculator&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=374151&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/0xRefDev/pixels_land_tracker" style="flex: 1 1 48%;">
-    <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(255, 255, 255, 0.02);" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=pixels_land_tracker&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=374151&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/0xRefDev/pixels_missions" style="flex: 1 1 48%;">
-    <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(255, 255, 255, 0.02);" src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=pixels_missions&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=374151&hide_border=true&locale=en" />
-  </a>
-</div>
+<a href="https://github.com/0xRefDev/sfl_digger_master">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=sfl_digger_master&theme=dark" width="250px" alt="sfl_digger_master"/>
+</a>
+<a href="https://github.com/0xRefDev/binance_p2p_profit_calculator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=binance_p2p_profit_calculator&theme=dark" width="250px" alt="binance_p2p_profit_calculator"/>
+</a>
+<a href="https://github.com/0xRefDev/pixels_land_tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=pixels_land_tracker&theme=dark" width="250px" alt="pixels_land_tracker"/>
+</a>
+<a href="https://github.com/0xRefDev/pixels_missions">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=pixels_missions&theme=dark" width="250px" alt="pixels_missions"/>
+</a>
+
 <br/>
+
 <div style="width: 100%; display: flex; justify-content: center;">
 <img src="https://github.com/0xRefDev/portfolio_refh4ck/blob/main/src/assets/images/pc.gif?raw=true" alt="Coder" width="300px" style="height: 200px; object-fit: cover;"/>
 </div>
