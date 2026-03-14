@@ -17,22 +17,5 @@
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<br/>
-
-# 🔎 Top Repositories
-
-<a href="https://github.com/0xRefDev/sfl_digger_master" style="text-decoration: none;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=sfl_digger_master&theme=dark" alt="sfl_digger_master"/>
-</a>
-<a href="https://github.com/0xRefDev/binance_p2p_profit_calculator" style="text-decoration: none;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=binance_p2p_profit_calculator&theme=dark" alt="binance_p2p_profit_calculator"/>
-</a>
-<a href="https://github.com/0xRefDev/pixels_land_tracker" style="text-decoration: none;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=pixels_land_tracker&theme=dark" alt="pixels_land_tracker"/>
-</a>
-<a href="https://github.com/0xRefDev/pixels_missions" style="text-decoration: none;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRefDev&repo=pixels_missions&theme=dark" alt="pixels_missions"/>
-</a>
 <br/> <br/>
 <a href="https://tu-portfolio.com" style="text-align: center; width: 100%;">Want to see more? Visit my portfolio and check out my projects!</a>
