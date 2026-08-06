@@ -1,4 +1,4 @@
-![Banner](https://github.com/0xRefDev/0xRefDev/blob/main/github-header-banner.png)
+![Banner](https://github.com/0xRefDev/0xRefDev/blob/main/banner.png)
 
 <div id="badges" style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/0xref.dev" target="_blank">
